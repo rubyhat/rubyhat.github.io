@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55c4ffc5.chunk.css",
+    "main.js": "/static/js/main.2f8ed09c.chunk.js",
+    "main.js.map": "/static/js/main.2f8ed09c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f70fc41c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f70fc41c.js.map",
+    "static/css/2.dee9b4ff.chunk.css": "/static/css/2.dee9b4ff.chunk.css",
+    "static/js/2.46e550d3.chunk.js": "/static/js/2.46e550d3.chunk.js",
+    "static/js/2.46e550d3.chunk.js.map": "/static/js/2.46e550d3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.dee9b4ff.chunk.css.map": "/static/css/2.dee9b4ff.chunk.css.map",
+    "static/css/main.55c4ffc5.chunk.css.map": "/static/css/main.55c4ffc5.chunk.css.map",
+    "static/js/2.46e550d3.chunk.js.LICENSE.txt": "/static/js/2.46e550d3.chunk.js.LICENSE.txt",
+    "static/media/car-1.9acc5111.png": "/static/media/car-1.9acc5111.png",
+    "static/media/home.scss": "/static/media/home-new-auto-bg-2x.7d39382a.jpg",
+    "static/media/footer-icon-2-2x.7051f9a7.png": "/static/media/footer-icon-2-2x.7051f9a7.png",
+    "static/media/footer-img-1-1x.018745a2.png": "/static/media/footer-img-1-1x.018745a2.png",
+    "static/media/footer-img-1-2x.7d370b7a.png": "/static/media/footer-img-1-2x.7d370b7a.png",
+    "static/media/home-banner-1-1x.662ad423.jpg": "/static/media/home-banner-1-1x.662ad423.jpg",
+    "static/media/home-banner-1-2x.46f97731.jpg": "/static/media/home-banner-1-2x.46f97731.jpg",
+    "static/media/home-img-1-1x.ad04a7f7.jpg": "/static/media/home-img-1-1x.ad04a7f7.jpg",
+    "static/media/home-img-1-2x.5ee9fb30.jpg": "/static/media/home-img-1-2x.5ee9fb30.jpg",
+    "static/media/main-logo-2x.d6c2a6ed.png": "/static/media/main-logo-2x.d6c2a6ed.png",
+    "static/media/sj-logo-2x.f58373cc.png": "/static/media/sj-logo-2x.f58373cc.png",
+    "static/media/winners-img-1x.383cc0bd.jpg": "/static/media/winners-img-1x.383cc0bd.jpg",
+    "static/media/winners-img-2x.9fbc437b.jpg": "/static/media/winners-img-2x.9fbc437b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f70fc41c.js",
+    "static/css/2.dee9b4ff.chunk.css",
+    "static/js/2.46e550d3.chunk.js",
+    "static/css/main.55c4ffc5.chunk.css",
+    "static/js/main.2f8ed09c.chunk.js"
+  ]
+}
