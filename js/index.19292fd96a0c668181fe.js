@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstart_template_webpack=self.webpackChunkstart_template_webpack||[]).push([[826],{971:function(){document.addEventListener("DOMContentLoaded",(function(){console.log("hello world")}))}},function(e){e(e.s=971)}]);
