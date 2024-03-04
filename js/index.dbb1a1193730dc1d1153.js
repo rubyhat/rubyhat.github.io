@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkGithub_Page_by_Rubyhat=self.webpackChunkGithub_Page_by_Rubyhat||[]).push([[826],{971:function(){document.addEventListener("DOMContentLoaded",(function(){console.log("Hello :)")}))}},function(e){e(e.s=971)}]);
